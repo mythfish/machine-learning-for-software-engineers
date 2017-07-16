@@ -124,10 +124,10 @@
 每天我都会从下面的列表中选一个出来，一遍又一遍的读，做笔记，练习，用Python或R语言实现它。
 
 # 动机
-- [ ] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## 机器学习概论
-- [ ] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
